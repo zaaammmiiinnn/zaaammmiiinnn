@@ -77,20 +77,18 @@ Modern developer portfolio with backend email handling.
 
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=zaaammmiiinnn&show_icons=true&theme=tokyonight&cache_seconds=1800"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=zaaammmiiinnn&show_icons=true&theme=tokyonight" />
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaaammmiiinnn&layout=compact&theme=tokyonight"/>
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=zaaammmiiinnn&layout=compact&theme=tokyonight" />
 </p>
----
 
-# 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <p align="center">
-<img src="https://streak-stats.demolab.com?user=zaaammmiiinnn&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=zaaammmiiinnn&theme=tokyonight" />
 </p>
-
 ---
 
 # 👀 Profile Views
